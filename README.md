@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Welcome to my data portfolio! Here, I document a summary of my data projects.
+
+# Who I am?
+
+I have been working as a Project Manager and Scrum Master for the last 10 years, and I am learning to transition to Data Analitycs and Data Science.
 <!--
 **xavivelasco/xavivelasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
