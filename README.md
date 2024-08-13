@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavi Velasco</h1>
-<h3 align="center">A Scrum Master & Project Manager transitioning to Data Science</h3>
+<h3 align="center">A Scrum Master learning Data Science</h3>
 
 - 🌱 I’m currently learning **SQL, Python**
 
