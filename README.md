@@ -15,6 +15,6 @@
 Feel free to explore the projects I’m developing as part of my learning journey in [my portfolio](https://github.com/XaviVelasco/Portfolio).
 
   
-### 📫 Connect with Me
+### 📫 Connect with me
 
 Interested in connecting? You can reach me at contacto@xavivelasco.com or you can visit my [LinkedIn profile](https://www.linkedin.com/in/xavivelasco)
