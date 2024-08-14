@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavi Velasco</h1>
 <h3 align="center">A Scrum Master learning Data Science</h3>
 
-![Xavi Velasco Banner](img/Xavi Velasco - hero.jpg)
+![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20-%20hero.jpg))
 
 - 🌱 I’m currently learning **SQL, Python** while doing projects.
 
