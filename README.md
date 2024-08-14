@@ -1,5 +1,5 @@
 ### 👋 Hi! My name is Xavi Velasco 
-![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20Talk.jpg)
+<kbd>![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20Talk.jpg)
 
 - I work as a **Scrum Master** and Agile Project Manager.
 
