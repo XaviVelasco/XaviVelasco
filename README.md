@@ -1,8 +1,7 @@
 ![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20Talk.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Xavi Velasco</h1>
-<h3 align="center">A Scrum Master learning Data Science</h3><br>
+<h1 align="center">Hi 👋, I'm Xavi Velasco</h1><br>
 
 - 🌱 I’m currently learning **Data Analysis** and **Data Science** (SQL, R, Python, Power BI, Tableau...) to advance my career.
 
