@@ -1,7 +1,7 @@
 ![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20Talk.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Xavi Velasco</h1><br>
+<h1 align="center">Hi 👋, I'm Xavi Velasco</h1>
 
 - 🌱 I’m currently learning **Data Analysis** and **Data Science** (SQL, R, Python, Power BI, Tableau...) to advance my career.
 
