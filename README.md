@@ -4,7 +4,7 @@
 - I work as a **Scrum Master**.
 - I have successfully coordinated and **led national and international projects** in the technological field for 10 years.
 - My goal is to work on projects related to **web** and **e-commerce, software development** or **Artificial Intelligence**.
-- I’m currently learning **Data Science** to advance my career.
+- I’m currently learning **Data Analytics** to advance my career and improve my current position resources.
 
 ### 👨‍💻 Projects
 
