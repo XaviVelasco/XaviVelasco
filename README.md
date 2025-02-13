@@ -1,10 +1,10 @@
 ## 👋 Hi! I'm Xavi Velasco 
 <kbd>![Xavi Velasco Banner](https://github.com/XaviVelasco/XaviVelasco/blob/main/img/Xavi%20Velasco%20Talk.jpg)
 
-- I work as a **Scrum Master and Agile Coach**.
+- I work as a **Scrum Master and data-driven Agile Consultant**.
 - I have successfully coordinated and **led national and international projects** in the technological field for 10 years.
 - My goal is to work on projects related to **web** and **e-commerce, software development** or **Artificial Intelligence**.
-- I’m currently learning **Data Analytics** to advance my career and improve my current position resources.
+- I’m currently learning **Data Analytics** & **Data Science** to advance my career and improve my current position resources.
 
 ### 👨‍💻 Projects
 
